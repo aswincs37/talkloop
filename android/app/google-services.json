@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376065639878",
+    "project_id": "talkloop-9f2ba",
+    "storage_bucket": "talkloop-9f2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376065639878:android:5f0b8bfe07b0d7404cdec7",
+        "android_client_info": {
+          "package_name": "com.example.talkloop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjFl2SPu4s7r3d4jc943rzy8ckVzkkHso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
